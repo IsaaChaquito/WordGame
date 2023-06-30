@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1688129901,
+	"version": 1688138015,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -154,6 +154,7 @@
 		"media/manta.ogg",
 		"media/manzana.ogg",
 		"media/montaña.ogg",
+		"media/cual-es-la-accion-opuesta-a-cerrar.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
