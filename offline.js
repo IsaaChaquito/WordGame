@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1688143132,
+	"version": 1688144610,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -55,6 +55,8 @@
 		"images/bueno-sheet0.png",
 		"images/cartoonforestenvironmentbackgroundfreevector-sheet0.png",
 		"images/play-sheet0.png",
+		"images/ucr-sheet0.png",
+		"images/escuela-sheet0.png",
 		"media/ana.ogg",
 		"media/auto.ogg",
 		"media/dormir.ogg",
